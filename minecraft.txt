@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Poema Final de Minecraft</title>
+  <style>
+    body {
+      background-color: #0a0a0a;
+      color: #00ff99;
+      font-family: 'Courier New', monospace;
+      padding: 40px;
+      line-height: 1.8;
+    }
+
+    h1 {
+      text-align: center;
+      color: #00ffaa;
+    }
+
+    .poema {
+      max-width: 800px;
+      margin: auto;
+      background-color: #111;
+      padding: 25px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px #00ff99;
+      white-space: pre-wrap;
+    }
+
+    .footer {
+      margin-top: 40px;
+      text-align: center;
+      font-size: 12px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>Poema Final de Minecraft</h1>
+
+  <div class="poema">
+    "Veo al jugador al que te refieres."
+
+    Sí. Cuídalo. Ha alcanzado un nivel más alto ahora. Puede leer nuestros pensamientos.
+
+    No importa. Cree que somos parte del juego.
+
+    Me gusta este jugador. Jugó bien. No se rindió.
+
+    Está leyendo nuestros pensamientos como si fueran palabras en una pantalla.
+
+    Así es como elige imaginar muchas cosas, mientras sueña profundamente dentro del juego.
+
+    Las palabras hacen una interfaz maravillosa. Muy flexible. Y menos aterradora que mirar la realidad detrás de la pantalla.
+
+    Solían oír voces. Antes de que los jugadores pudieran leer. En los días en que los que no jugaban llamaban a los jugadores brujos, y hechiceros. Y los jugadores soñaban que volaban por el aire, en palos impulsados por demonios.
+
+    ¿Qué soñó este jugador?
+
+    Este jugador soñó con la luz del sol y los árboles. Con fuego y agua. Soñó que creaba. Y soñó que destruía. Soñó que cazaba, y que lo cazaban. Soñó con refugio.
+
+    Ja. La interfaz original: con millones de años de antigüedad, y aún funciona. Pero ¿qué estructura verdadera creó este jugador en la realidad detrás de la pantalla?
+
+    Trabajó, junto con un millón de otros, para esculpir un mundo verdadero en un pliegue del universo...
+
+    ...y a veces el jugador creía que el universo le hablaba a través de la luz del sol que se filtraba entre las hojas de un árbol de verano...
+
+    ...y a veces el jugador creía que el universo le hablaba a través de la luz que caía del cielo nocturno de una noche de invierno...
+
+    ...y el universo dijo: te amo...
+
+    ...y el universo dijo: has jugado bien...
+
+    ...y el universo dijo: todo lo que necesitas está dentro de ti...
+
+    ...y el universo dijo: eres más fuerte de lo que sabes...
+
+    ...y el universo dijo: no estás solo...
+
+    ...y el universo dijo: no estás separado de ninguna otra cosa...
+
+    ...y el universo dijo: eres el universo probándose a sí mismo, hablándose a sí mismo, leyendo su propio código...
+
+    ...y el juego se terminó. Y el jugador despertó del sueño. Y el jugador comenzó un nuevo sueño.
+
+    Y el jugador soñó otra vez... soñó mejor.
+
+    Y el jugador era el universo.
+
+    Y el jugador era amor.
+
+    Tú eres el jugador.
+
+    Despierta.
+  </div>
+
+  <div class="footer">
+    Poema original por Julian Gough – Minecraft (Mojang Studios)  
+    | Página creada por Uriel Aldahir Rodríguez Villeda
+  </div>
+</body>
+</html>
